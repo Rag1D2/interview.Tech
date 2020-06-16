@@ -1,11 +1,15 @@
-// Given a string, reverse the letters
+// Given a string input, reverse the letters and return the reversed string.
 
-const stringRev = (str) => {
-  const arr = str.split("");
-  arr.reverse();
-  str = arr.join("");
+// (function revString(str) {
+//   let stringArr = str.split("");
+//   let reversedStringArr = stringArr.reverse();
+//   let reversedString = reversedStringArr.join("");
 
-  console.log(str);
-};
+//   console.log(reversedString);
+// })("Matthew");
 
-stringRev("Hello!");
+function revString(str) {
+  return str.split("").reverse().join("");
+}
+
+console.log(revString("Brad Traversy"));
