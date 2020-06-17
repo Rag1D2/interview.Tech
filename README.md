@@ -6,15 +6,13 @@ Also, I filmed all of it and you can find the videos on my YouTube Channel
 
 ### Day 1
 
-```
 FizzBuzz
-```
+
+---
 
 ### Day 2
 
-```
 String Reversal
-```
 
 To see the results of this exercise, open the file (reversed.js) in your IDE,
 open your command line using Ctrl + ~
@@ -24,3 +22,5 @@ Inside the command line, type
 ```
 node reversed.js
 ```
+
+---
