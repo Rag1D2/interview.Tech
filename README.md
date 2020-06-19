@@ -56,3 +56,15 @@ node palindrome.js
 ```
 
 ---
+
+# Day 4
+
+Remove Array Duplicates
+
+- Given an array, remove all duplicate items in that array.
+
+To see the results of this exercise, open the file (removesDups.js) in VS Code, use Ctrl + ~ to open your command line.
+
+```
+node removeDups.js
+```
