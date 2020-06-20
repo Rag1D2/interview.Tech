@@ -68,3 +68,11 @@ To see the results of this exercise, open the file (removesDups.js) in VS Code, 
 ```
 node removeDups.js
 ```
+
+# Day 5
+
+Progress Bar
+
+- Create a progress bar and fill it up over a given number of seconds.
+
+To see the results in action, simply open the index.html file and click the "Start" Button.
