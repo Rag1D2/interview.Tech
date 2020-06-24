@@ -76,3 +76,40 @@ Progress Bar
 - Create a progress bar and fill it up over a given number of seconds.
 
 To see the results in action, simply open the index.html file and click the "Start" Button.
+
+# Day 6
+
+Max Character
+
+- Given a string, return only the letter that occurs the most.
+  To see the results of this exercise, open the file (maxChar.js) in VS Code, use Ctrl + ~ to open your command line.
+
+```
+node maxChar.js
+```
+
+# Day 7
+
+Private Variable
+
+- Create a private variable
+
+  To see the results of this exercise, open the file (app.js) in VS Code, use Ctrl + ~ to open your command line.
+
+```
+node app.js
+```
+
+# Day 8
+
+Credit Card Mask
+
+- Write a function which changes all but the last four characters of a credit card number.
+
+  To see the results of this exercise, open the file (mask.js) in VS Code, use Ctrl + ~ to open your command line.
+
+```
+node mask.js
+```
+
+# Day 9
